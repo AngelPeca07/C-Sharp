@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\Ex28\bin\Debug\Ex28.exe.config
+D:\C#\exercises\Basic\Ex28\bin\Debug\Ex28.exe
+D:\C#\exercises\Basic\Ex28\bin\Debug\Ex28.pdb
+D:\C#\exercises\Basic\Ex28\obj\Debug\Ex28.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\Ex28\obj\Debug\Ex28.exe
+D:\C#\exercises\Basic\Ex28\obj\Debug\Ex28.pdb

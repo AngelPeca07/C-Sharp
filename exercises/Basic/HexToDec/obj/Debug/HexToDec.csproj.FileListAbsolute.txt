@@ -1,0 +1,12 @@
+D:\C#\exercises\HexToDec\bin\Debug\HexToDec.exe.config
+D:\C#\exercises\HexToDec\bin\Debug\HexToDec.exe
+D:\C#\exercises\HexToDec\bin\Debug\HexToDec.pdb
+D:\C#\exercises\HexToDec\obj\Debug\HexToDec.csprojAssemblyReference.cache
+D:\C#\exercises\HexToDec\obj\Debug\HexToDec.exe
+D:\C#\exercises\HexToDec\obj\Debug\HexToDec.pdb
+D:\C#\exercises\Basic\HexToDec\bin\Debug\HexToDec.exe.config
+D:\C#\exercises\Basic\HexToDec\bin\Debug\HexToDec.exe
+D:\C#\exercises\Basic\HexToDec\bin\Debug\HexToDec.pdb
+D:\C#\exercises\Basic\HexToDec\obj\Debug\HexToDec.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\HexToDec\obj\Debug\HexToDec.exe
+D:\C#\exercises\Basic\HexToDec\obj\Debug\HexToDec.pdb

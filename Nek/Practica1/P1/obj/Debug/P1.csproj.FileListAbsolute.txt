@@ -1,0 +1,6 @@
+D:\C#\Nek\Practica1\P1\bin\Debug\P1.exe.config
+D:\C#\Nek\Practica1\P1\bin\Debug\P1.exe
+D:\C#\Nek\Practica1\P1\bin\Debug\P1.pdb
+D:\C#\Nek\Practica1\P1\obj\Debug\P1.csprojAssemblyReference.cache
+D:\C#\Nek\Practica1\P1\obj\Debug\P1.exe
+D:\C#\Nek\Practica1\P1\obj\Debug\P1.pdb

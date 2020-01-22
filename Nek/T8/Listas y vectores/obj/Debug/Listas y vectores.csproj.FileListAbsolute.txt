@@ -1,0 +1,6 @@
+D:\C#\Nek\T8\Listas y vectores\bin\Debug\Listas y vectores.exe.config
+D:\C#\Nek\T8\Listas y vectores\bin\Debug\Listas y vectores.exe
+D:\C#\Nek\T8\Listas y vectores\bin\Debug\Listas y vectores.pdb
+D:\C#\Nek\T8\Listas y vectores\obj\Debug\Listas y vectores.csprojAssemblyReference.cache
+D:\C#\Nek\T8\Listas y vectores\obj\Debug\Listas y vectores.exe
+D:\C#\Nek\T8\Listas y vectores\obj\Debug\Listas y vectores.pdb

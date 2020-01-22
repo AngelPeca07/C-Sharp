@@ -1,0 +1,5 @@
+D:\C#\exercises\Swap_2_num\bin\Debug\Swap_2_num.exe.config
+D:\C#\exercises\Swap_2_num\bin\Debug\Swap_2_num.exe
+D:\C#\exercises\Swap_2_num\bin\Debug\Swap_2_num.pdb
+D:\C#\exercises\Swap_2_num\obj\Debug\Swap_2_num.exe
+D:\C#\exercises\Swap_2_num\obj\Debug\Swap_2_num.pdb

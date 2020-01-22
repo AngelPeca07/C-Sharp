@@ -1,0 +1,6 @@
+D:\C#\Parenthesis\bin\Debug\Parenthesis.exe.config
+D:\C#\Parenthesis\bin\Debug\Parenthesis.exe
+D:\C#\Parenthesis\bin\Debug\Parenthesis.pdb
+D:\C#\Parenthesis\obj\Debug\Parenthesis.csprojAssemblyReference.cache
+D:\C#\Parenthesis\obj\Debug\Parenthesis.exe
+D:\C#\Parenthesis\obj\Debug\Parenthesis.pdb

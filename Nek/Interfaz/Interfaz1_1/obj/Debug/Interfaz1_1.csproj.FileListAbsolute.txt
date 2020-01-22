@@ -1,0 +1,9 @@
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.csprojAssemblyReference.cache
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.Form1.resources
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.Properties.Resources.resources
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.csproj.GenerateResource.cache
+D:\C#\Nek\Interfaz\Interfaz1_1\bin\Debug\Interfaz1_1.exe.config
+D:\C#\Nek\Interfaz\Interfaz1_1\bin\Debug\Interfaz1_1.exe
+D:\C#\Nek\Interfaz\Interfaz1_1\bin\Debug\Interfaz1_1.pdb
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.exe
+D:\C#\Nek\Interfaz\Interfaz1_1\obj\Debug\Interfaz1_1.pdb

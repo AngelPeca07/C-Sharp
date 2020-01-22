@@ -1,0 +1,11 @@
+D:\C#\Paola\Estructura\bin\Debug\Estructura.exe.config
+D:\C#\Paola\Estructura\bin\Debug\Estructura.exe
+D:\C#\Paola\Estructura\bin\Debug\Estructura.pdb
+D:\C#\Paola\Estructura\obj\Debug\Estructura.csprojAssemblyReference.cache
+D:\C#\Paola\Estructura\obj\Debug\Estructura.Form1.resources
+D:\C#\Paola\Estructura\obj\Debug\Estructura.Properties.Resources.resources
+D:\C#\Paola\Estructura\obj\Debug\Estructura.csproj.GenerateResource.cache
+D:\C#\Paola\Estructura\obj\Debug\Estructura.exe
+D:\C#\Paola\Estructura\obj\Debug\Estructura.pdb
+D:\C#\Paola\Estructura\obj\Debug\Estructura.Resultado.resources
+D:\C#\Paola\Estructura\obj\Debug\Estructura.Corte2.resources

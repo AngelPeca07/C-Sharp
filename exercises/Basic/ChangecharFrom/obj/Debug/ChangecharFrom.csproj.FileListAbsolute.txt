@@ -1,0 +1,5 @@
+D:\C#\exercises\Basic\ChangecharFrom\bin\Debug\ChangecharFrom.exe.config
+D:\C#\exercises\Basic\ChangecharFrom\bin\Debug\ChangecharFrom.exe
+D:\C#\exercises\Basic\ChangecharFrom\bin\Debug\ChangecharFrom.pdb
+D:\C#\exercises\Basic\ChangecharFrom\obj\Debug\ChangecharFrom.exe
+D:\C#\exercises\Basic\ChangecharFrom\obj\Debug\ChangecharFrom.pdb

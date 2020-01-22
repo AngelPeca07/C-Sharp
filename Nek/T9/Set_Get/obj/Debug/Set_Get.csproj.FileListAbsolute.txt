@@ -1,0 +1,6 @@
+D:\C#\Nek\T9\Set_Get\bin\Debug\Set_Get.exe.config
+D:\C#\Nek\T9\Set_Get\bin\Debug\Set_Get.exe
+D:\C#\Nek\T9\Set_Get\bin\Debug\Set_Get.pdb
+D:\C#\Nek\T9\Set_Get\obj\Debug\Set_Get.csprojAssemblyReference.cache
+D:\C#\Nek\T9\Set_Get\obj\Debug\Set_Get.exe
+D:\C#\Nek\T9\Set_Get\obj\Debug\Set_Get.pdb

@@ -1,0 +1,5 @@
+D:\C#\exercises\Multip_table\bin\Debug\Multip_table.exe.config
+D:\C#\exercises\Multip_table\bin\Debug\Multip_table.exe
+D:\C#\exercises\Multip_table\bin\Debug\Multip_table.pdb
+D:\C#\exercises\Multip_table\obj\Debug\Multip_table.exe
+D:\C#\exercises\Multip_table\obj\Debug\Multip_table.pdb

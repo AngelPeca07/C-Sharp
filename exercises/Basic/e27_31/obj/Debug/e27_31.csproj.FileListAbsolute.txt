@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\e27_31\bin\Debug\e27_31.exe.config
+D:\C#\exercises\Basic\e27_31\bin\Debug\e27_31.exe
+D:\C#\exercises\Basic\e27_31\bin\Debug\e27_31.pdb
+D:\C#\exercises\Basic\e27_31\obj\Debug\e27_31.exe
+D:\C#\exercises\Basic\e27_31\obj\Debug\e27_31.pdb
+D:\C#\exercises\Basic\e27_31\obj\Debug\e27_31.csprojAssemblyReference.cache

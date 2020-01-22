@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\AddcharToString\bin\Debug\AddcharToString.exe.config
+D:\C#\exercises\Basic\AddcharToString\bin\Debug\AddcharToString.exe
+D:\C#\exercises\Basic\AddcharToString\bin\Debug\AddcharToString.pdb
+D:\C#\exercises\Basic\AddcharToString\obj\Debug\AddcharToString.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\AddcharToString\obj\Debug\AddcharToString.exe
+D:\C#\exercises\Basic\AddcharToString\obj\Debug\AddcharToString.pdb

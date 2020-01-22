@@ -1,0 +1,6 @@
+D:\C#\Nek\T12\ArreglosMultidi\bin\Debug\ArreglosMultidi.exe.config
+D:\C#\Nek\T12\ArreglosMultidi\bin\Debug\ArreglosMultidi.exe
+D:\C#\Nek\T12\ArreglosMultidi\bin\Debug\ArreglosMultidi.pdb
+D:\C#\Nek\T12\ArreglosMultidi\obj\Debug\ArreglosMultidi.csprojAssemblyReference.cache
+D:\C#\Nek\T12\ArreglosMultidi\obj\Debug\ArreglosMultidi.exe
+D:\C#\Nek\T12\ArreglosMultidi\obj\Debug\ArreglosMultidi.pdb

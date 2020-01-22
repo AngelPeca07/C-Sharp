@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\E26\bin\Debug\E26.exe.config
+D:\C#\exercises\Basic\E26\bin\Debug\E26.exe
+D:\C#\exercises\Basic\E26\bin\Debug\E26.pdb
+D:\C#\exercises\Basic\E26\obj\Debug\E26.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\E26\obj\Debug\E26.exe
+D:\C#\exercises\Basic\E26\obj\Debug\E26.pdb

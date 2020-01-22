@@ -1,0 +1,6 @@
+D:\C#\Reservamos\bin\Debug\Reservamos.exe.config
+D:\C#\Reservamos\bin\Debug\Reservamos.exe
+D:\C#\Reservamos\bin\Debug\Reservamos.pdb
+D:\C#\Reservamos\obj\Debug\Reservamos.csprojAssemblyReference.cache
+D:\C#\Reservamos\obj\Debug\Reservamos.exe
+D:\C#\Reservamos\obj\Debug\Reservamos.pdb

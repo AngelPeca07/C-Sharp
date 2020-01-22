@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\arrays\bin\Debug\arrays.exe.config
+D:\C#\exercises\Basic\arrays\bin\Debug\arrays.exe
+D:\C#\exercises\Basic\arrays\bin\Debug\arrays.pdb
+D:\C#\exercises\Basic\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\arrays\obj\Debug\arrays.exe
+D:\C#\exercises\Basic\arrays\obj\Debug\arrays.pdb

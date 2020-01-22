@@ -1,0 +1,10 @@
+D:\C#\Nek\Interfaz2\Datos\bin\Debug\Datos.exe.config
+D:\C#\Nek\Interfaz2\Datos\bin\Debug\Datos.exe
+D:\C#\Nek\Interfaz2\Datos\bin\Debug\Datos.pdb
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.Form1.resources
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.Properties.Resources.resources
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.exe
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.pdb
+D:\C#\Nek\Interfaz2\Datos\obj\Debug\Datos.Mensaje.resources

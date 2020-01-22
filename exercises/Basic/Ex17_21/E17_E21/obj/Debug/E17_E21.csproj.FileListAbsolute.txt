@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\Ex17_21\E17_E21\bin\Debug\E17_E21.exe.config
+D:\C#\exercises\Basic\Ex17_21\E17_E21\bin\Debug\E17_E21.exe
+D:\C#\exercises\Basic\Ex17_21\E17_E21\bin\Debug\E17_E21.pdb
+D:\C#\exercises\Basic\Ex17_21\E17_E21\obj\Debug\E17_E21.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\Ex17_21\E17_E21\obj\Debug\E17_E21.exe
+D:\C#\exercises\Basic\Ex17_21\E17_E21\obj\Debug\E17_E21.pdb

@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\Remove_charactr\bin\Debug\Remove_charactr.exe.config
+D:\C#\exercises\Basic\Remove_charactr\bin\Debug\Remove_charactr.exe
+D:\C#\exercises\Basic\Remove_charactr\bin\Debug\Remove_charactr.pdb
+D:\C#\exercises\Basic\Remove_charactr\obj\Debug\Remove_charactr.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\Remove_charactr\obj\Debug\Remove_charactr.exe
+D:\C#\exercises\Basic\Remove_charactr\obj\Debug\Remove_charactr.pdb

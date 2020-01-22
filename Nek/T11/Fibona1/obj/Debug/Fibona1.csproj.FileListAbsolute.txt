@@ -1,0 +1,6 @@
+D:\C#\Nek\T11\Fibona1\bin\Debug\Fibona1.exe.config
+D:\C#\Nek\T11\Fibona1\bin\Debug\Fibona1.exe
+D:\C#\Nek\T11\Fibona1\bin\Debug\Fibona1.pdb
+D:\C#\Nek\T11\Fibona1\obj\Debug\Fibona1.csprojAssemblyReference.cache
+D:\C#\Nek\T11\Fibona1\obj\Debug\Fibona1.exe
+D:\C#\Nek\T11\Fibona1\obj\Debug\Fibona1.pdb

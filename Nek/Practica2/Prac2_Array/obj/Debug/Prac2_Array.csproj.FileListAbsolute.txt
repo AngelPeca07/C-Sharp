@@ -1,0 +1,6 @@
+D:\C#\Nek\Practica2\Prac2_Array\bin\Debug\Prac2_Array.exe.config
+D:\C#\Nek\Practica2\Prac2_Array\bin\Debug\Prac2_Array.exe
+D:\C#\Nek\Practica2\Prac2_Array\bin\Debug\Prac2_Array.pdb
+D:\C#\Nek\Practica2\Prac2_Array\obj\Debug\Prac2_Array.csprojAssemblyReference.cache
+D:\C#\Nek\Practica2\Prac2_Array\obj\Debug\Prac2_Array.exe
+D:\C#\Nek\Practica2\Prac2_Array\obj\Debug\Prac2_Array.pdb

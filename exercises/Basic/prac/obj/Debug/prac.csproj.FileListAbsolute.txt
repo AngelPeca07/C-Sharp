@@ -1,0 +1,6 @@
+D:\C#\exercises\Basic\prac\bin\Debug\prac.exe.config
+D:\C#\exercises\Basic\prac\bin\Debug\prac.exe
+D:\C#\exercises\Basic\prac\bin\Debug\prac.pdb
+D:\C#\exercises\Basic\prac\obj\Debug\prac.csprojAssemblyReference.cache
+D:\C#\exercises\Basic\prac\obj\Debug\prac.exe
+D:\C#\exercises\Basic\prac\obj\Debug\prac.pdb
